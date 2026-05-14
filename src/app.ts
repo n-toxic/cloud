@@ -68,7 +68,7 @@ app.get("/", (_req, res) => {
             </p>
 
             <a href="https://Techofy.xyz" target="_blank" class="flex items-center justify-center w-full py-4 bg-white text-black font-bold rounded-2xl hover:bg-blue-50 transition-all active:scale-95 shadow-xl">
-                Join Techofy
+                Click Here
             </a>
             
             <p class="mt-6 text-[10px] text-slate-600 uppercase tracking-[0.2em]">Status: Online • v2.0.0</p>
