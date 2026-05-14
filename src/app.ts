@@ -64,7 +64,7 @@ app.get("/", (_req, res) => {
             <p class="text-blue-400 text-sm font-semibold tracking-widest uppercase mb-6">Cloud Infrastructure</p>
 
             <p class="text-slate-400 text-sm leading-relaxed mb-10 px-4">
-                Advanced digital solutions and tech insights. Follow our journey on Telegram for exclusive updates.
+                Advanced digital solutions and tech insights. Support Us @Techofy
             </p>
 
             <a href="https://Techofy.xyz" target="_blank" class="flex items-center justify-center w-full py-4 bg-white text-black font-bold rounded-2xl hover:bg-blue-50 transition-all active:scale-95 shadow-xl">
